@@ -18,4 +18,4 @@ The objective of this article is to predict flight prices given the various para
 ![FLOW CHART](images/flowchart.png)
 
 ## Preview
-![FLOW CHART](images/Screenshot(2).png)
+![Preview](images/Screenshot (2).png)
