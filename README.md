@@ -1,4 +1,4 @@
-![FLOW CHART](images/flowchart.png)
+
 
 
 # Flight-Price-Predict-Deployment-Heroku
@@ -13,3 +13,5 @@ The objective of this article is to predict flight prices given the various para
 ‘Price‘ will be our dependent variable and all remaining variables can be used as independent variables.
 
 ‘Total_Stops‘ can be used to determine if the flight was direct or connecting.
+
+![FLOW CHART](images/flowchart.png)
