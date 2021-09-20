@@ -1,4 +1,4 @@
-![FLOW CHART](image/flowchart.png)
+![FLOW CHART](images/flowchart.png)
 
 
 # Flight-Price-Predict-Deployment-Heroku
