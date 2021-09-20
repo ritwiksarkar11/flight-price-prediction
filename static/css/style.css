@@ -38,6 +38,9 @@ body {
 	width:400px;
 	height:400px;
 }
+.card{
+	opacity: 0.6;
+}
 
 .login h1 { color: #fff; text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
 
